@@ -29,7 +29,7 @@ uv add install numpy pandas matplotlib plotly scikit-learn streamlit
 
 ### Running the Streamlit App
 
-To run the House Price Prediction app, execute the following command in your terminal:
+To run the Salary Price Prediction app, execute the following command in your terminal:
 
 ```bash
 streamlit run main.py
